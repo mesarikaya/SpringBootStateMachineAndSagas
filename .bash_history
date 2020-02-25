@@ -45,3 +45,7 @@ git commit -m "Initiate repository"
 git config user.email "mesarikaya@gmail.com"
 git config user.name "Ergin"
 git commit -m "Initiate repository"
+git add -A .
+git commit -m "Initiate repository"
+git remote add origin https://github.com/mesarikaya/SpringBootStateMachineAndSagas.git
+git push -u origin master
